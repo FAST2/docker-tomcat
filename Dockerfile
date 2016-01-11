@@ -1,4 +1,4 @@
-FROM jeanblanchard/java:8
+FROM jeanblanchard/java:jdk-8
 MAINTAINER Jean Blanchard <jean@blanchard.io>
 
 # Expose web port
